@@ -39,3 +39,8 @@ sysinfo.txt
 *.bundle
 *.json
 *.hash
+
+PhotonServerSettings.asset
+*.env
+*.json # If containing keys
+
