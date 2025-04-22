@@ -42,7 +42,7 @@ Follow these steps to set up and run the app:
 #### 1. Clone or Download the Repository
 
 ```bash
-git clone https://github.com/rajarsheya/ConvoSphere-3D-GPT-Chat-with-Avatars
+git clone https://github.com/rajarsheya/ConvoSphere-3D-GPT-Chat-with-Avatars.git
 ```
 
 #### 2. Open the Project in Unity
