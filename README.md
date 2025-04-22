@@ -19,7 +19,9 @@
 
 ---
 
-## Note: This project uses the Free-tier OpenAI API, which has a limited usage quota. Once the quota is reached, the chatbot functionality may stop working until it resets.
+## Note: 
+
+-  **This project uses the Free-tier OpenAI API, which has a limited usage quota. Once the quota is reached, the chatbot functionality may stop working until it resets.**
 
 ---
 
