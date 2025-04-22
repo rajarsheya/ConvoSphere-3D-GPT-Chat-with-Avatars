@@ -61,6 +61,7 @@ git clone https://github.com/rajarsheya/ConvoSphere-3D-GPT-Chat-with-Avatars
 
 - Download and import **Mixamo Avatars** from [Mixamo](https://www.mixamo.com/)
 - *(Optional)* Import your preferred **TTS Plugin** (e.g., RT-Voice, Azure, Google TTS) (Couldn't implement due to time constraint)
+- In GPTChat.cs script, add the OpenAI API Key which you have.
 
 #### 5. Set Up Scene Files
 
@@ -80,6 +81,8 @@ In `PhotonServerSettings`:
 - ✅ Enable **Automatically Sync Scene**
 - Set your **Photon Nickname** and default **Room Name** if needed
 
+In `Assets > Photon > PhotonUnityNetworking > Resources > PhotonServerSettings`
+- ✅ Add the **App Id PUN** from the Photon App ID
 ---
 
 ## ▶️ Running the App
