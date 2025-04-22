@@ -7,7 +7,7 @@
 ## 🚀 Features
 
 - **3D Multiplayer Chat**: Communicate with other users in a virtual world.
-- **GPT-3.5 Powered Avatars**: Engage in intelligent conversations with AI-powered avatars based on OpenAI's GPT-3.5 model.
+- **GPT-3.5 Powered Avatars**: Engage in intelligent conversations with AI-powered avatars based on OpenAI's GPT-3.5 model. (It uses the Free-tier, so it can fill up it's quota pretty fast)
 - **Customizable Avatars**: Users can choose from a variety of Mixamo avatars for their characters. (Currently only 1 Avatar due to time constraint)
 - **Chat Interface**: A text-based conversation UI where users can send and receive messages.
 - **Emotive Avatar Reactions**: Avatars display emotions like smiling or waving based on the conversation.
@@ -16,6 +16,10 @@
 ---
 
 ## Demo Video: 
+
+---
+
+## Note: This project uses the Free-tier OpenAI API, which has a limited usage quota. Once the quota is reached, the chatbot functionality may stop working until it resets.
 
 ---
 
